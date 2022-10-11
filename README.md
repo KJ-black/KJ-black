@@ -21,6 +21,7 @@ KJ</a></h1>
 - <a href="https://erratic-tabletop-2e2.notion.site/e76c421155e043879a8304fe2e485158?v=97af25831f1845a7a5a1b322a0644e21">HackTrick</a>: every kinds of knowledge for pentesting or defending
 - <a href="https://erratic-tabletop-2e2.notion.site/750c344e43da445b9f112b9f0594e736?v=1127f05eb12d4d4bb435de7e91ab752e">Hack the Box WriteUp</a>: record the notes of penetrating to each kinds of boxes on HTB
 - <a href="https://erratic-tabletop-2e2.notion.site/CTF-a2a026bcfde3405d8c9f99871a7ee106">CTF WriteUp</a>: record of CTF from all kinds of practices
+- <a href="https://erratic-tabletop-2e2.notion.site/Leetcode-b7d4415ae0ef456184541a82c6497ace">Leetcode WriteUp</a>: record of Leetcode 
 
 <br><br><hr>
 <div align="center">
