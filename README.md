@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/kj-black" target="blank">
 KJ</a></h1>
-<h4 align="center">A student in NYCU DSNS Lab for APT reseaching and pentesting</h4>
+<h4 align="center">A student in NYCU DSNS Lab for APT researching and pentesting</h4>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=KJ&label=Profile%20views&color=0e75b6&style=flat" alt="KJ" /> </p>
 
